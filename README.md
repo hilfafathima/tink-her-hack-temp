@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# project name : DO IT 🎯
 
-## Basic Details
+## Basic Details:A decision structuring system which turns vague ideas into structured execution plan. we are not replacing human intelligence, we are removing cognitive overload by structuring thought . the same idea produces different execution plans depending who you are 
 
-### Team Name: [Name]
+### Team Name: Parallels
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Hilfa Fathima P.M - EMEA College of arts and science
+- Member 2: Nihala - EMEA College of arts and science
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+:A decision structuring system which turns vague ideas into structured execution plan. we are not replacing human intelligence, we are removing cognitive overload by structuring thought .the same idea produces different execution plans depending who you are . even intelligent people fail when their thinking is unstructured. this website solves
+
 
 ### The Problem statement
-[What problem are you solving?]
+Most AI or planning tools generate solutions immediately without understanding the user’s identity, goal, resources, or constraints, resulting in generic or unrealistic advice.
 
 ### The Solution
-[How are you solving it?]
+Do it” transforms goal-setting into a clarity-first, personalized execution platform, guiding users step-by-step to actionable plans that fit their reality, resources, and pace. the plan generated will be in justice with all the resources and oppurtunities which are currently available for the user....no exaggeration or motivational fluff....action mindset never supports motivation and it supports in just "doing it without thinking twice"
 
 ---
 
@@ -31,26 +32,26 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g., JavaScript, html, css]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Tools used: [e.g., VS Code, Git, chatgpt, claude.ai, gemini API]
 
 ---
 
 ## Features
 
-List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+1)
+-Clarity-Gated Wizard:
+Step-by-step guided questions collect user identity, goals, resources, constraints, and blockers, ensuring all critical context is captured before generating any plan.
 
+2)Personalized Execution Plans:
+Generates customized, realistic, and actionable plans based on the user’s inputs, preferred pace, and available resources.
+
+3)Progress Tracking & Visual Feedback:
+Interactive progress bar and visual cues help users stay motivated and clearly see which steps are completed.
+
+4)Summary Confirmation & Adaptive Output:
+Users review and confirm all collected inputs before the plan is generated, ensuring alignment, feasibility, and higher success probability.
 ---
 
 ## Implementation
@@ -83,20 +84,23 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](images/Screenshot%20(1).png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](images/Screenshot%20(3).png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](images/Screenshot%20(5).png)
 *Add caption explaining what this shows*
 
+(images/Screenshot%20(6).png)
+(images/Screenshot%20(8).png)
+(images/Screenshot%20(10).png)
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](images/Clarity-First%20execution%20platform%20diagram.png)
 *Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
